@@ -24,6 +24,8 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
+      "react-native-reanimated/plugin",      
+      "expo-constants",
       "expo-router",
       [
         "expo-splash-screen",
