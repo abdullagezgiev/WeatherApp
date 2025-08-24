@@ -101,6 +101,7 @@ src/
 ![Главный экран приложения](screenshots/aiGq697zJxdvP6cwEISuhLCY9YR959321JAd6MIt17W9w5OU0qJ4bQNUPaiTsqYwsRCAauY9HvX_jmsZgZvoijwx.jpg)
 
 ![Главный экран приложения](screenshots/Fuuh-SmqRqAcqUR6g6hXPWYYJWhp_KXDModMhDQV8D7uswu4uHYwkPaGkwcp_yslGVN1iUJ2V1QSnfM9vuMNLmZ1.jpg) <!-- New York. I have problem with search hestory -->
+
 🔧 Настройка для разработки
 Добавление нового функционала
 Создайте ветку для новой фичи:
