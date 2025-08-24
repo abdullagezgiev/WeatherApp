@@ -12,13 +12,14 @@ export default function RootLayout() {
         headerTitleStyle: { // headerTitleStyle позволяет задать стиль текста заголовка, например, жирный шрифт
           fontWeight: 'bold',
         },
+        headerShown: false,
       }}
     >
       <Stack.Screen
         name="index"
         options={{ title: 'Weather' }}
       />
-      <ThemeProvider><Slot/></ThemeProvider>
+      {/* <ThemeProvider><Slot/></ThemeProvider> */}
     </Stack>
   );
 }

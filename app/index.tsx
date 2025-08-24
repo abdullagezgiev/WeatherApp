@@ -366,7 +366,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     padding: 15,
     borderRadius: 20,
-    // backgroundColor: 'transparent',
+    marginTop: 23,
     backgroundColor: 'rgba(255,255,255,0.2)',
   },
 
@@ -385,7 +385,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     height: 40, // Фиксированная высота
     width: 280,
-    marginBottom: 13,
+    marginBottom: 13
   },
   searchInput: {
     flex: 1,
@@ -503,27 +503,4 @@ const styles = StyleSheet.create({
   },
 });
 
-
-// const styles = StyleSheet.create({
-//   forecastContainer: {
-//     paddingVertical: 15,
-//   },
-//   forecastItem: {
-//     alignItems: 'center',
-//     marginHorizontal: 10,
-//     padding: 10,
-//     backgroundColor: '#f0f0f0',
-//     borderRadius: 10,
-  
-//   },
-//   day: {
-//     fontWeight: 'bold',
-//   },
-//   icon: {
-//     width: 40,
-//     height: 40,
-//   },
-//   subtitle: {},
-//   temp: {},
-// });
 
